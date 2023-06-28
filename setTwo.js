@@ -6,6 +6,10 @@
 */
 
 // CODE HERE
+function multiply ( number1, number2, callback){
+  const product = num1 * number2;
+  callback(product);
+}
 
 
 // UNCOMMENT THE FUNCTION CALL BELOW
